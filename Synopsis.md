@@ -3,8 +3,8 @@
 The need to secure and reliable means of communication containing images and videos have
 become extremely necessary. Accordingly, network security and data encryption issues are
 considered as a significant subject. Currently, images are considered as the most important
-source of information. The applications of image and video encryption can be used in various
-fields like wireless communication, multimedia systems, medical imaging, telemedicine,
+source of information. The applications of image can be used in various
+fields like wireless communication, multimedia systems, medical imaging,
 and military communication. The secret image can be sent to the intended person, and at the
 other end the person can decrypt the secret image to get the original image.
 ## Problem definition
