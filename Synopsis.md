@@ -11,7 +11,7 @@ other end the person can decrypt the secret image to get the original image.
 The popularity of digital images has increased security problems in storing or transmitting vital
 images. Secret image sharing techniques preserve image securely by sharing secret image
 among shared images and then recovering the secret image from shared images. The project
-will be implemented using python language and standard dataset will be considered.
+will be implemented using python language and standard dataset will be considered.<br>
 We will implement this project using sequential coding and we will try to implement the same
 using parallel programming for the better performance so that we reduce the processing time
 for encryption and decryption of the image.  
